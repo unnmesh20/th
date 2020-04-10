@@ -59,7 +59,7 @@
 {
   font-family:"Montserrat";
   /* font-weight: 0.2rem; */
-  font-size: 18px;
+  font-size: 22px;
   line-height: 2;
   margin-right: auto;
   text-align: center;
@@ -85,7 +85,7 @@
 /* Navigation Bar */
 .nbrand
 {
-  font-size:20px;
+  font-size:22px;
   font-family:"Ubuntu";
   font-weight:bold;
   font-color:#ffff;
@@ -99,7 +99,7 @@
 }
 .navbar-brand {
   font-family: "Ubuntu";
-  font-size: 2.5rem;
+  font-size: 2.75rem;
   font-weight: bold;
 }
 
@@ -201,7 +201,7 @@ h3
 }
 .testimonial-text
 {
-  font-size: 20px;
+  font-size: 22px;
 }
 .unnmesh
 {
